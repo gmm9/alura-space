@@ -1,0 +1,18 @@
+.rodape {
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+    background-color: #04244F;
+
+    &__icones {
+        display: flex;
+        gap: 30px;
+    }
+    &__texto {
+        color: white;
+        font-size: 15px;
+        font-family: "GandhiSansRegular";
+    }
+}

@@ -1,0 +1,16 @@
+
+[
+    {
+      
+      "imagem": "/assets/imagens/icones/favorito.png",
+      "id": "1",
+      "alt": "Icone de curtir"
+    },
+    {
+      "imagem": "/assets/imagens/icones/open.png",
+      "id": "2",
+      "alt": "Icone de abrir modal"
+    }
+   
+  ]
+  
